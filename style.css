@@ -680,6 +680,10 @@ p {
     font-size: 11px;
 }
 
+.size {
+    font-size: 20px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -705,13 +709,23 @@ p {
 }
 
 h2 {    
+    font-size: 22px;   
+}
+
+.style {
+    margin-bottom: 0;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h3 {    
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;    
 }
 
-h3 {
+h4 {
     font-size: 22px;
     line-height: 1.4em;
 }
